@@ -14,7 +14,7 @@ I'm a senior software engineer having 5 years of professional working experience
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MuhammadZariyanAsif123&icon=0&color=0)](https://visitcount.itsvg.in)
-
+# 📊 LeetCode Problems Solved:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MuhammadZariyanAsif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
