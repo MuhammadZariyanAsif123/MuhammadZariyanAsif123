@@ -1,60 +1,45 @@
-# Hi there, I'm Zariyan! 👋
+# Muhammad Zariyan Asif
+### Senior Full-Stack Engineer
 
 <p align="left">
-  <a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+  <code><strong>SYSTEM:</strong> ACTIVE</code> &nbsp;&middot;&nbsp; 
+  <code><strong>LOCATION:</strong> Lahore, Pakistan 🇵🇰</code> &nbsp;&middot;&nbsp;
+  <code><a href="https://linkedin.com/in/zariyanasif">LINKEDIN</a></code> &nbsp;&middot;&nbsp;
+  <code><a href="mailto:YOUR_EMAIL@gmail.com">EMAIL</a></code>
 </p>
 
----
+***
 
-### 🚀 About Me
-I am a **Senior Software Engineer** with over 5 years of professional experience architecting robust software solutions across diverse sectors—including Healthcare, Biomedical, Public Sector, and Emergency Crisis Management. 
+###  EXECUTIVE OVERVIEW
+Architecting highly resilient web applications and bridging complex technical strategies with real-world business objectives. Over the last 5+ years, I have engineered scalable systems within high-stakes compliance domains—including **Healthcare**, **Biomedical systems**, **Public Sector infrastructures**, and **Emergency Crisis Management platforms**.
 
-- 👥 **Leadership:** Proven track record of mentoring cross-functional teams to achieve high-impact project goals.
-- ⚙️ **Architecture:** Skilled at designing robust systems and seamlessly bridging technical execution with business requirements.
-- 💡 **Adaptability:** Passionate about mastering emerging technologies and keeping pace with industry trends.
+*   **Engineering Leadership** &mdash; Mentoring cross-functional engineering teams and standardizing modern deployment practices to meet rigorous product timelines.
+*   **System Architecture** &mdash; Designing resilient frontend systems, robust state management patterns, and maintainable backend data schemas.
+*   **Domain Adaptability** &mdash; Swiftly mastering shifting ecosystem trends to deploy optimized, zero-compromise software solutions.
 
----
+***
 
-### 🛠️ Tech Stack & Ecosystem
+###  ENGINEERING CORE & ECOSYSTEM
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Core Frontend & Languages</strong><br/><br/>
-      <img src="https://shields.io" alt="JS" />
-      <img src="https://shields.io" alt="TS" />
-      <img src="https://shields.io" alt="React" />
-      <img src="https://shields.io" alt="Next" />
-      <img src="https://shields.io" alt="Redux" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>UI & Styling</strong><br/><br/>
-      <img src="https://shields.io" alt="Tailwind" />
-      <img src="https://shields.io" alt="MUI" />
-      <img src="https://shields.io" alt="Bootstrap" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Data, CMS & CRM</strong><br/><br/>
-      <img src="https://shields.io" alt="SQL Server" />
-      <img src="https://shields.io" alt="Oracle" />
-      <img src="https://shields.io" alt="Sanity" />
-      <img src="https://shields.io" alt="PowerBI" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>Testing & Tools</strong><br/><br/>
-      <img src="https://shields.io" alt="Jest" />
-    </td>
-  </tr>
-</table>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `JavaScript` &bull; `TypeScript` &bull; `Python` &bull; `SQL` |
+| **Frameworks & Libs** | `React.js` &bull; `Next.js` &bull; `Redux Toolkit` &bull; `FastAPI` &bull; `Node.js` |
+| **Design & Typography** | `Tailwind CSS` &bull; `Material UI (MUI)` &bull; `Bootstrap` &bull; `Aceternity UI` |
+| **Data, CMS & CRM** | `Prisma ORM` &bull; `PostgreSQL` &bull; `SQL Server` &bull; `Oracle` &bull; `Sanity Headless` &bull; `PowerBI` |
+| **Testing & Quality** | `Jest` &bull; `Unit Testing` &bull; `E2E Testing` |
 
----
+***
 
-### 📊 GitHub Activity
+### 📊 TELEMETRY & ENGINE STATS
+<!-- Minimal transparent theme matches seamlessly into GitHub's native dark mode layout -->
+<p align="center">
+  <img src="https://vercel.app" width="49%" />
+  <img src="https://vercel.app" width="49%" />
+</p>
+
+***
 
 <p align="center">
-  <img src="https://vercel.app" alt="Zariyan's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Langs" width="48%" />
+  <sub>Engineered with precision. Driven by scalability and clean system architecture.</sub>
 </p>
