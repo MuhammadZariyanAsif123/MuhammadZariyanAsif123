@@ -1,25 +1,60 @@
-# 💫 About Me:
-I'm a senior software engineer having 5 years of professional working experience in different software industries.<br>I have worked in various projects in different domains like public sector,healthcare,biomedical,emergency crisis etc.<br><br>I excel in:<br> - Leading and mentoring cross-functional teams to achieve project goals.<br> - Designing and implementing robust software solutions.<br> - Bridging the gap between technical and business requirements.<br> - Adapting to new technologies and industry trends.<br> <br>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Javascript, Typescript<br>𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 𝐚𝐧𝐝 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬: React.js, Redux, Next.js<br>𝐒𝐭𝐲𝐥𝐢𝐧𝐠: Tailwind CSS, Bootstrap, MaterialUI<br>𝐓𝐞𝐬𝐭𝐢𝐧𝐠: Jest<br>𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦𝐬: Sanity Headless <br>𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: PowerBI<br>𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: SQL Server, Oracle <br>𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Siebel CRM <br>𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐚𝐧𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Github, Jira<br><br><br>Let's connect to explore and unlock exciting possibilities together.<br>
+# Hi there, I'm Zariyan! 👋
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zariyanasif/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadzariyan@gmail.com) 
-
-# 💻 Tech Stack:
-Frontend: React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Material UI, D3.js, Redux Toolkit, Capacitor.js 
-Backend & Data: Next.js, Node.js, Prisma ORM, REST APIs, SOAP Web Services, MySQL 
-Tools & Platforms: Git, Figma, Siebel CRM, Oracle BI Publisher, Power BI 
-Testing: Jest, React Testing Library 
-Cloud: Vercel, Netlify, Azure
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammadZariyanAsif123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MuhammadZariyanAsif123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZariyanAsif123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MuhammadZariyanAsif123&icon=0&color=0)](https://visitcount.itsvg.in)
-# 📊 LeetCode Problems Solved:
-![LeetCode Stats](https://leetcard.jacoblin.cool/MuhammadZariyanAsif)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+I am a **Senior Software Engineer** with over 5 years of professional experience architecting robust software solutions across diverse sectors—including Healthcare, Biomedical, Public Sector, and Emergency Crisis Management. 
+
+- 👥 **Leadership:** Proven track record of mentoring cross-functional teams to achieve high-impact project goals.
+- ⚙️ **Architecture:** Skilled at designing robust systems and seamlessly bridging technical execution with business requirements.
+- 💡 **Adaptability:** Passionate about mastering emerging technologies and keeping pace with industry trends.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Core Frontend & Languages</strong><br/><br/>
+      <img src="https://shields.io" alt="JS" />
+      <img src="https://shields.io" alt="TS" />
+      <img src="https://shields.io" alt="React" />
+      <img src="https://shields.io" alt="Next" />
+      <img src="https://shields.io" alt="Redux" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>UI & Styling</strong><br/><br/>
+      <img src="https://shields.io" alt="Tailwind" />
+      <img src="https://shields.io" alt="MUI" />
+      <img src="https://shields.io" alt="Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Data, CMS & CRM</strong><br/><br/>
+      <img src="https://shields.io" alt="SQL Server" />
+      <img src="https://shields.io" alt="Oracle" />
+      <img src="https://shields.io" alt="Sanity" />
+      <img src="https://shields.io" alt="PowerBI" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Testing & Tools</strong><br/><br/>
+      <img src="https://shields.io" alt="Jest" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://vercel.app" alt="Zariyan's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Langs" width="48%" />
+</p>
