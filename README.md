@@ -1,5 +1,5 @@
 # Muhammad Zariyan Asif
-### Senior Full-Stack Engineer
+### Full-Stack Engineer
 
 <p align="left">
   <code><strong>SYSTEM:</strong> ACTIVE</code> &nbsp;&middot;&nbsp; 
