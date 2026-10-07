@@ -10,12 +10,9 @@
 
 ***
 
-###  EXECUTIVE OVERVIEW
-Architecting highly resilient web applications and bridging complex technical strategies with real-world business objectives. Over the last 5+ years, I have engineered scalable systems within high-stakes compliance domains—including **Healthcare**, **Biomedical systems**, **Public Sector infrastructures**, and **Emergency Crisis Management platforms**.
+###  OVERVIEW
 
-*   **Engineering Leadership** &mdash; Mentoring cross-functional engineering teams and standardizing modern deployment practices to meet rigorous product timelines.
-*   **System Architecture** &mdash; Designing resilient frontend systems, robust state management patterns, and maintainable backend data schemas.
-*   **Domain Adaptability** &mdash; Swiftly mastering shifting ecosystem trends to deploy optimized, zero-compromise software solutions.
+Full Stack AI Engineer with 4+ years of experience designing and building scalable web applications, backend APIs, and AI-powered solutions. Strong expertise in React, Next.js, TypeScript, Python, and FastAPI, with hands-on experience in AI agents, and LLM integrations. Proven experience delivering enterprise solutions for government, healthcare, public-sector, and life-sciences clients, with a focus on performance, maintainability, and reliable software delivery.
 
 ***
 
@@ -31,14 +28,6 @@ Architecting highly resilient web applications and bridging complex technical st
 
 ***
 
-### 📊 TELEMETRY & ENGINE STATS
-<!-- Minimal transparent theme matches seamlessly into GitHub's native dark mode layout -->
-<p align="center">
-  <img src="https://vercel.app" width="49%" />
-  <img src="https://vercel.app" width="49%" />
-</p>
-
-***
 
 <p align="center">
   <sub>Engineered with precision. Driven by scalability and clean system architecture.</sub>
